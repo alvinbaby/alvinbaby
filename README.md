@@ -6,11 +6,11 @@
 <img align="right" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/Developerkavi.gif"/>
 </div>
 	
-- 👨🏽‍💻 HELLO I’m [MONSTER LALLU](https://www. )
+- 👨🏽‍💻 HELLO I’m [MONSTER LALLU](https://www.instagram.com/mr__alvin_07/ )
 - 🤔 I’m looking for New programming methord
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 -😊 Ask me about anything, I am happy to help
-- 📫 How to reach me [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1) 
+- 📫 How to reach me [Whatsapp](https://wa.me/qr/) 
 - 💫 **I am only a beginner developer.. 🌆**
 </p>
 
