@@ -1,14 +1,12 @@
 <h1 align="center">👋𝐌𝐑 𝐉𝐈𝐍𝐍👋
 <h4 align="center">☚ ✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★≛⃝🧞‍♂️</h4>
-<h4 align="center">🕊️★2021★🕊️</h4>     
-<img src="https://github.com/alvinbaby/alvinbaby/blob/main/backgroundk.png" width="300%">
-<p align="center" 
+<h4 align="center">🕊️★2021★🕊️</h4> 
 </p>
-<div align="right">
+<div align="center">
 <img align="right" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/Developerkavi.gif"/>
 </div>
 	
-- 👨🏽‍💻 HELLO I’m [MONSTER LALLU](https://www.facebook.com/kavindu.dilhara.311 )
+- 👨🏽‍💻 HELLO I’m [MONSTER LALLU](https://www. )
 - 🤔 I’m looking for New programming methord
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 -😊 Ask me about anything, I am happy to help
