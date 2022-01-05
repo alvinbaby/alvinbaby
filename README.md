@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/Developerkavi.gif"/>
 </div>
 	
-- 👨🏽‍💻 HELLO I’m [MONSTER LALLU](https://www.instagram.com/mr__alvin_07/ )
+- 👨🏽‍💻 HELLO I’m [͢✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★](https://www.instagram.com/mr__alvin_07 )
 - 🤔 I’m looking for New programming methord
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 -😊 Ask me about anything, I am happy to help
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### I AM MONSTER LALLU KCH THIS PAGE IS ONLY FOR EDUCATION,WE ARE NOT SUPPORTING ANY TYPE OF MISS USE.......
 
 <div align="center">
-*ɪͥᴛͭsᷤ ᴍͫᴇͤ 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔
+⚠️----𝐌𝐑 𝐉𝐈𝐍𝐍----⚠️
 
 <div align="center">
   <img src=https://www.linkpicture.com/q/20220103_160219.png>
