@@ -1,11 +1,8 @@
-# <h1 align=>Hi, I'm  MONSTER LALLU(INDIA)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
-<h4 align="center">ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴</h4>     
-<img src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/backgroundk.png" width="300%">
-<p align="center">
-	<a href="https://wa.me/qr/6YU2FJRVFLGAM1"><img title="Whatsapp Namber" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "whatsapp"></a>
-	<a href="https://www.instagram.com/kavindudilhara50/"><img title="instragame account" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
-	<a href="https://t.me/K_dilhara"><img title="Telegram Namber" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.facebook.com/kavidu.dilhara.0"><img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+<h1 align="center">👋𝐌𝐑 𝐉𝐈𝐍𝐍👋
+<h4 align="center">☚ ✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★≛⃝🧞‍♂️</h4>
+<h4 align="center">🕊️★2021★🕊️</h4>     
+<img src="https://github.com/alvinbaby/alvinbaby/blob/main/backgroundk.png" width="300%">
+<p align="center" 
 </p>
 <div align="right">
 <img align="right" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/Developerkavi.gif"/>
