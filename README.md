@@ -1,6 +1,6 @@
 <h1 align="center">👋𝐌𝐑 𝐉𝐈𝐍𝐍👋
 <h3 align="center">☚ ✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★≛⃝🧞‍♂️</h4>
-<h3 align="center">🕊️★2021★🕊️</h4> 
+<h3 align="center">🕊️★2022★🕊️</h4> 
 </p>
 </p>
 <div align="center">
