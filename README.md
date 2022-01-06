@@ -1,11 +1,10 @@
 <h1 align="center">👋𝐌𝐑 𝐉𝐈𝐍𝐍👋
+<h3 align="center">☚ ✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★≛⃝🧞‍♂️</h4>
+<h3 align="center">🕊️★2021★🕊️</h4> 
+</p>
 </p>
 <div align="center">
   <img src=https://www.linkpicture.com/q/20220103_160219.png>
-
-<h4 align="center">☚ ✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★≛⃝🧞‍♂️</h4>
-<h4 align="center">🕊️★2021★🕊️</h4> 
-</p>
 
 
 <h3 align="left"͢✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★͢:</h3>
