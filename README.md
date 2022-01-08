@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I AM ALVIN BABY KCH THIS PAGE IS ONLY FOR EDUCATION,WE ARE NOT SUPPORTING ANY TYPE OF MISS USE.......
+### ⚠️✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★⚠️
 
-
-
-<div align="center">
-⚠️----𝐌𝐑 𝐉𝐈𝐍𝐍----⚠️
 
