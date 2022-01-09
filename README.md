@@ -25,8 +25,7 @@
 </p>
 
 --------
-
-### Hi there 👋
+🇮🇳⚔️🇮🇳
 
 <!--
 **alvinbaby/alvinbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +41,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
 ### ⚠️✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★⚠️
 
-
+<div align="center">
+  <img src=computer-.png>
+<p>
