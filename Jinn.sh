@@ -3,6 +3,6 @@
 clear
 
 echo " "  
-figlet  Insta-Hack | lolcat
+figlet  Mr.JINN | lolcat
 
 echo " "
