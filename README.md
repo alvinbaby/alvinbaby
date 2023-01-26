@@ -49,6 +49,5 @@ Here are some ideas to get you started:
 ---- 
 
 <div align="center">
-  <img src=computer-.png>
+  <img src=12.png>
 <p>
-<img src=computer-.png>
