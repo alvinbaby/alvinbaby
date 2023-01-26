@@ -1,25 +1,26 @@
-<h1 align="center">BLACK MASTER
+<h1 align="center">☚✮⃝⃝BLACK MASTER
 <p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
-<h3 align="center">☚✮⃝⃝ BLACK MASTER</h4>
+<p class="p-lis">
+        <a href="https://github.com/alvinbaby/AIRAVAT-PRO" target="_blank" class="toolsp">
+            <img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinbaby&repo=AIRAVAT-PRO&theme=dark">
+        </a>
+        <a class="but" href="https://github.com/alvinbaby/AIRAVAT-PRO" target="_blank">
+            Open It On github
+        </a>
+    </div
 <h3 align="center">🕊️★2023★🕊️</h4> 
 </p>
 </p>
 <div align="center">
   <img src=https://www.linkpicture.com/q/PicsArt_03-12-10.51.40.png>
-<p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
 
-<h3 align="left"͢✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★͢:</h3>
 
-<h3 align="center">Please follow Me :</h3>
+<h3 align="center">follow Me :</h3>
 <p align="center">
 <a href="https://instagram.com/mr__alvin_07?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="50" width="60" /></a>
 </p>
 
-<h3 align="center">Please subscribe channel :</h4>
+<h3 align="center">YouTube Channel :</h4>
 <p align="center">
 <a href="https://youtube.com/channel/UCrSi_WwYSHVJ5fsrqFNUPZg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
