@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-----
-### ⚠️✮⃝⃝ 𝐌𝐑 𝐉𝐈𝐍𝐍⃝ ★⚠️
+---- 
 
 <div align="center">
   <img src=computer-.png>
