@@ -11,7 +11,7 @@
         </a>
 <p class="p-lis">
         <a href="https://github.com/alvinbaby/JINNRAT" target="_blank" class="toolsp">
-            <img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinbaby&repo=AIRAVAT-PRO&theme=dark">
+            <img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinbaby&repo=JINNRAT&theme=dark">
         </a>
         <a class="but" href="https://github.com/alvinbaby/JINNRAT" target="_blank">
             Open
