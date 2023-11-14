@@ -28,7 +28,7 @@
 
 <h3 align="center">follow Me :</h3>
 <p align="center">
-<a href="https://instagram.com/mr__alvin_07?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="50" width="60" /></a>
+<a href="https://instagram.com/Mikhail.x2?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="50" width="60" /></a>
 </p>
 
 <h3 align="center">YouTube Channel :</h4>
