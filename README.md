@@ -33,7 +33,7 @@
 
 <h3 align="center">YouTube Channel :</h4>
 <p align="center">
-<a href="https://youtube.com/channel/UCrSi_WwYSHVJ5fsrqFNUPZg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://www.youtube.com/@0Tech-Bro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
 --------
