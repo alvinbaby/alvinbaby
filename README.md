@@ -23,7 +23,6 @@
 </p>
 </p>
 <div align="center">
-  <img src=https://www.linkpicture.com>
 
 
 <h3 align="center">follow Me :</h3>
